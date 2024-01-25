@@ -1,0 +1,14 @@
+Welcome to our directory management service!
+
+Please select one of the options:
+
+0x0 List ~ lists all files, recursively
+0x1 Download ~ downloads a file from server
+0x2 Upload ~ upload a file to server
+0x4 Delete ~ delete a file from server
+0x8 Move ~ move a file from server
+0x10 Update ~ update data from a file
+0x20 Search ~ search a word
+0x40 Close ~ closes the application
+
+Input: 
